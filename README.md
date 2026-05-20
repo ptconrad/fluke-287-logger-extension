@@ -14,7 +14,7 @@ Chrome extension for logging Fluke 287 measurements through the Web Serial API.
 Create the upload zip from the project root:
 
 ```sh
-zip -r fluke-287-logger-cws-0.1.0.zip manifest.json index.html styles.css app.js service-worker.js icons
+zip -r fluke-287-logger-cws-0.1.0.zip manifest.json index.html styles.css app.js service-worker.js icons LICENSE PRIVACY.md
 ```
 
 The Chrome Web Store upload package must contain `manifest.json` at the zip root.
@@ -24,3 +24,8 @@ The Chrome Web Store upload package must contain `manifest.json` at the zip root
 - Requires a Chromium-based browser with Web Serial support.
 - Serial access is granted by the user through the browser's device picker.
 - No external runtime dependencies are required.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 only.
+See [LICENSE](LICENSE) for details.
