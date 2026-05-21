@@ -25,6 +25,12 @@ The Chrome Web Store upload package must contain `manifest.json` at the zip root
 - Serial access is granted by the user through the browser's device picker.
 - No external runtime dependencies are required.
 
+## Trademark notice
+
+This project is not affiliated with, endorsed by, or sponsored by Fluke Corporation.
+Fluke is a trademark of Fluke Corporation. The name is used only to describe
+compatibility with Fluke 287 multimeters.
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0 only.
