@@ -1,6 +1,6 @@
 # Fluke 287 Logger
 
-Chrome(Firefox experimental in nightly build under linux) extension for logging Fluke 287 measurements through the Web Serial API.
+Chrome extension for logging Fluke 287 measurements through the Web Serial API.
 
 ## Install locally
 
